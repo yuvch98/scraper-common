@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: crawler-scraper-common-by-yuvch
+Version: 0.4.0
+Summary: A shared library for web scraping utilities.
+Author: Yuval Chabra
+Author-email: yuvalchabra100@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+
+# Scraper Package
+
+This is a simple scraper package.
+bug fixes.

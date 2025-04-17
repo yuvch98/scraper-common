@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+crawler_scraper_common_by_yuvch/__init__.py
+crawler_scraper_common_by_yuvch/crawler.py
+crawler_scraper_common_by_yuvch/utils.py
+crawler_scraper_common_by_yuvch.egg-info/PKG-INFO
+crawler_scraper_common_by_yuvch.egg-info/SOURCES.txt
+crawler_scraper_common_by_yuvch.egg-info/dependency_links.txt
+crawler_scraper_common_by_yuvch.egg-info/requires.txt
+crawler_scraper_common_by_yuvch.egg-info/top_level.txt
