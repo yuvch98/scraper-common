@@ -2,6 +2,7 @@ LICENSE.txt
 README.md
 setup.py
 crawler_scraper_common_by_yuvch/__init__.py
+crawler_scraper_common_by_yuvch/cleaners.py
 crawler_scraper_common_by_yuvch/crawler.py
 crawler_scraper_common_by_yuvch/utils.py
 crawler_scraper_common_by_yuvch.egg-info/PKG-INFO

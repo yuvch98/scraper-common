@@ -7,7 +7,7 @@ with open(path.join(working_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 setup(
     name="crawler_scraper_common_by_yuvch",  # Package name
-    version="0.4.0",  # Version
+    version="0.6.0",  # Version
     packages=find_packages(),  # Automatically find sub-packages
     install_requires=["requests", "beautifulsoup4"],  # Dependencies
     description="A shared library for web scraping utilities.",
@@ -20,5 +20,5 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.6"  # Minimum Python version
+    python_requires=">=3.10"  # Minimum Python version
 )
